@@ -47,4 +47,3 @@ matrizResultado = llenarMatriz(puntosJugadorB)
 #Pintar la matriz
 pintarMatriz(matrizResultado)
 
-pintarMatrizV2(matrizResultado)
